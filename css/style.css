@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #ffff84;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    color: gray;
+    text-align: justify;
+    font-size: 23px;
+}
